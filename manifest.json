@@ -1,0 +1,16 @@
+{
+  "name": "भव्य मन्दिर निर्माण समिति",
+  "short_name": "मन्दिर APP",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FF9933",
+  "background_color": "#FF9933",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
